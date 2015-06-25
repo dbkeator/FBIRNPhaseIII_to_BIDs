@@ -1,0 +1,24 @@
+ 8/16 15:47:28 Menu   40 fbirn->'Session 2 -- Verify Adapt level'
+ 8/16 15:47:30 Menu   33 prescan->'Verify BIRN Subject ID'
+ 8/16 15:47:35 Alrt   33 Accept_1 <Enter 12 char BIRN ID:>
+ 8/16 15:47:35 Acpt   39 Enter 12 char BIRN I  -> <000974039052>
+ 8/16 15:47:41 Alrt   28 Accept_1 <Re-enter BIRN ID:>
+ 8/16 15:47:41 Acpt   36 Re-enter BIRN ID:  -> <000974039052>
+ 8/16 15:47:44 Menu   26 prescan->'Set Adapt Level'
+ 8/16 15:47:46 Alrt   13 Accept_3 <OK>
+ 8/16 15:47:46 Acpt   28 Enter adapt level (1  -> <3>
+ 8/16 15:48:32 Menu   29 prescan->'Adapt Practice Run'
+ 8/16 15:48:40 Alrt   16 Alert_2 <Cancel>
+ 8/16 15:48:44 Menu   30 prescan->'Calibrate responses'
+ 8/16 15:48:51 Menu   29 prescan->'Adapt Practice Run'
+ 8/16 15:48:54 Alrt   15 Alert_10 <Okay>
+ 8/16 15:50:02 Menu   18 prescan->'Adapt 4'
+ 8/16 15:50:16 Alrt   15 Alert_10 <Okay>
+ 8/16 15:56:11 Edit   17 birnscanset_6 <1>
+ 8/16 15:56:12 MnGo   22 birnscanset_1 <OK> [1]
+ 8/16 15:56:18 Alrt   12 Alert_3 <OK>
+ 8/16 15:56:43 Menu   38 prescan->'Calibrate Oddball Responses'
+ 8/16 15:56:49 Menu   30 prescan->'AudOdd Instructions'
+ 8/16 15:58:35 Menu Err   18 0/770 m=3 s=40402o
+ 8/16 15:58:41 Menu Err   18 0/770 m=3 s=40402o
+ 8/16 15:58:52 Menu Err   18 0/141 m=3 s=40402o

@@ -1,0 +1,196 @@
+<?xml version="1.0"?>
+<serieslevel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://nbirn.net/Resources/Users/Applications/xcede/" xmlns:xcede="http://nbirn.net/Resources/Users/Applications/xcede/">
+  <subject>
+    <name>000974039052</name>
+    <sex>male</sex>
+  </subject>
+  <visit>
+    <subjectVar>
+      <age agetype="postnatal" units="years">41</age>
+    </subjectVar>
+  </visit>
+  <scanner>
+    <model>MRC35044</model>
+  </scanner>
+  <expProtocol>
+    <name>fbirn_dti</name>
+  </expProtocol>
+  <acqProtocol>
+    <name>%SiemensSeq%\ep2d_diff</name>
+    <acqParam name="institutionaddress" type="varchar">City Drive 101,Orange/ab2e67cdaf/,Los Angeles,US,92868</acqParam>
+    <acqParam name="institutionaldepartmentname" type="varchar">Department</acqParam>
+    <acqParam name="scanoptions" type="varchar">PFP/FS</acqParam>
+    <acqParam name="mracquisitiontype" type="varchar">2D</acqParam>
+    <acqParam name="sequencename" type="varchar">*ep_b0</acqParam>
+    <acqParam name="angioflag" type="varchar">N</acqParam>
+    <acqParam name="numaverages" type="varchar">1</acqParam>
+    <acqParam name="imagingfrequency" type="varchar">123.253245</acqParam>
+    <acqParam name="imagednucleus" type="varchar">1H</acqParam>
+    <acqParam name="spacingbetweenslices" type="varchar">2.0000000537281</acqParam>
+    <acqParam name="numphaseencodingsteps" type="varchar">96</acqParam>
+    <acqParam name="echotrainlength" type="varchar">1</acqParam>
+    <acqParam name="percentsampling" type="varchar">100</acqParam>
+    <acqParam name="percentphasefieldofview" type="varchar">100</acqParam>
+    <acqParam name="scannerserialnumber" type="varchar">35044</acqParam>
+    <acqParam name="softwareversions" type="varchar">syngo MR B17</acqParam>
+    <acqParam name="inplanephaseencodingdirection" type="varchar">COL</acqParam>
+    <acqParam name="variableflipangleflag" type="varchar">N</acqParam>
+    <acqParam name="sar" type="varchar">0.51021600454885</acqParam>
+    <acqParam name="dBdt" type="varchar">0</acqParam>
+    <acqParam name="acquisitionnumber" type="varchar">1</acqParam>
+    <acqParam name="instancenumber" type="varchar">1</acqParam>
+    <acqParam name="samplesperpixel" type="varchar">1</acqParam>
+    <acqParam name="photometricinterpretation" type="varchar">MONOCHROME2</acqParam>
+    <acqParam name="rows" type="varchar">1152</acqParam>
+    <acqParam name="columns" type="varchar">1152</acqParam>
+    <acqParam name="bitsallocated" type="varchar">16</acqParam>
+    <acqParam name="bitsstored" type="varchar">12</acqParam>
+    <acqParam name="highbit" type="varchar">11</acqParam>
+    <acqParam name="pixelbandwidth" type="varchar">1563</acqParam>
+    <acqParam name="otherinfo" type="varchar">sRawFilter.lSlope_256 = 25
+sRawFilter.ucOn = 0x1
+sRawFilter.ucMode = 0x1
+</acqParam>
+    <acqParam name="sliceorder" type="varchar">2,4,6,8,10,12,14,16,18,20,22,24,26,28,30,32,34,36,38,40,42,44,46,48,50,52,54,56,58,60,62,64,66,68,70,72,1,3,5,7,9,11,13,15,17,19,21,23,25,27,29,31,33,35,37,39,41,43,45,47,49,51,53,55,57,59,61,63,65,67,69,71</acqParam>
+    <acqParam name="bvalues" type="varchar">0 800 800 800 800 800 800 0 800 800 800 800 800 800 0 800 800 800 800 800 800 0 800 800 800 800 800 800 0 800 800 800 800 800 800</acqParam>
+    <acqParam name="examnumber" type="integer">1</acqParam>
+    <acqParam name="studyid" type="varchar">000974039052</acqParam>
+    <acqParam name="seriesnumber" type="integer">21</acqParam>
+    <acqParam name="runnumber" type="integer">1</acqParam>
+    <acqParam name="scanningsequence" type="varchar">EP</acqParam>
+    <acqParam name="sequencevariant" type="varchar">SK/SP</acqParam>
+    <acqParam name="magneticfield" type="float">3</acqParam>
+    <acqParam name="description" type="varchar">fbirn_dti</acqParam>
+    <acqParam name="scandate" type="varchar">2011-08-16</acqParam>
+    <acqParam name="scantime" type="varchar">17:50:49</acqParam>
+    <acqParam name="tr" type="float">9000</acqParam>
+    <acqParam name="te" type="float">84.000000</acqParam>
+    <acqParam name="flipangle" type="float">90</acqParam>
+    <acqParam name="prescribedslicespacing" type="float">2</acqParam>
+    <acqParam name="frequencydirection" type="integer">1</acqParam>
+    <acqParam name="acquisitionmatrix" type="varchar">128 128</acqParam>
+    <acqParam name="bandwidth" type="float">200.064</acqParam>
+    <acqParam name="transmitcoilname" type="varchar">Body</acqParam>
+    <acqParam name="institution" type="varchar">UC IRVINE MED CTR 3T</acqParam>
+    <acqParam name="examdescription" type="varchar">RESEARCH^DR TURNER</acqParam>
+    <acqParam name="scanner" type="varchar">MRC35044</acqParam>
+    <acqParam name="scannermanufacturer" type="varchar">SIEMENS</acqParam>
+    <acqParam name="scannermodelname" type="varchar">TrioTim</acqParam>
+    <acqParam name="psdname" type="varchar">%SiemensSeq%\ep2d_diff</acqParam>
+    <acqParam name="protocolname" type="varchar">fbirn_dti (fbirn+AF8-dti) </acqParam>
+  </acqProtocol>
+  <datarec type="image">
+    <!--AUTOGEN: Orientation is axial -->
+    <rasorigin>127 123.271186441 -42.23486683</rasorigin>
+    <dimension type="x">
+      <size>128</size>
+      <origin>127</origin>
+      <spacing>2</spacing>
+      <gap>0</gap>
+      <direction>-1 0 0</direction>
+      <units>mm</units>
+    </dimension>
+    <dimension type="y">
+      <size>128</size>
+      <origin>123.271186441</origin>
+      <spacing>2</spacing>
+      <gap>0</gap>
+      <direction>0 -1 0</direction>
+      <units>mm</units>
+    </dimension>
+    <dimension type="z">
+      <size>72</size>
+      <origin>-42.23486683</origin>
+      <spacing>2</spacing>
+      <gap>0</gap>
+      <direction>0 0 1</direction>
+      <units>mm</units>
+    </dimension>
+    <dimension type="diffusiondirection">
+      <size>35</size>
+      <datapoints>
+        <value>0 0 0</value>
+        <value>0.9999674 0.00631092 -0.00504524</value>
+        <value>-0.50970167 -0.63230383 0.58343464</value>
+        <value>0.26132491 -0.43823758 -0.86003315</value>
+        <value>-0.5223918 0.7870391 -0.32814071</value>
+        <value>0.61029178 0.0698415 0.789092</value>
+        <value>0.35483524 0.92532277 0.13367681</value>
+        <value>0 0 0</value>
+        <value>0.08722442 -0.1908074 0.97774458</value>
+        <value>0.88871509 0.09493294 0.44852325</value>
+        <value>0.29257873 0.9097771 -0.29445502</value>
+        <value>0.41316524 -0.74189645 -0.52809483</value>
+        <value>0.88420105 0.30247048 -0.35594964</value>
+        <value>0.86034989 -0.50934458 0.01913401</value>
+        <value>0 0 0</value>
+        <value>-0.68034691 -0.14501646 0.71839982</value>
+        <value>0.22014081 0.23896691 0.94574463</value>
+        <value>0.08507762 -0.87068534 0.48442626</value>
+        <value>0.89948714 0.42428154 0.10444242</value>
+        <value>-0.00394093 0.91265881 0.40870294</value>
+        <value>-0.81501997 0.39126819 -0.42737758</value>
+        <value>0 0 0</value>
+        <value>-0.33040133 0.01770902 0.94367433</value>
+        <value>0.54330117 0.49393439 0.6788612</value>
+        <value>0.58012646 -0.80313975 -0.13571905</value>
+        <value>0.69123304 0.70211941 -0.17095363</value>
+        <value>-0.52563673 0.40274617 -0.7493341</value>
+        <value>0.90083712 -0.2649304 -0.34395382</value>
+        <value>0 0 0</value>
+        <value>0.16522785 -0.98624229 -0.00511239</value>
+        <value>0.65722549 -0.37207294 -0.65545148</value>
+        <value>0.25694475 0.44911134 -0.8557325</value>
+        <value>-0.63780659 -0.69432199 -0.3333464</value>
+        <value>-0.10877325 -0.669321 -0.73496783</value>
+        <value>-0.16781999 0.60699886 -0.7767812</value>
+      </datapoints>
+      <measurementframe>
+        <vector>-1 0 0</vector>
+        <vector>0 -1 0</vector>
+        <vector>0 0 1</vector>
+      </measurementframe>
+    </dimension>
+    <byteorder>lsbfirst</byteorder>
+    <elementtype>uint16</elementtype>
+    <filename>f.nii</filename>
+    <fileoffset>352</fileoffset>
+    <filerecordsize>82575360</filerecordsize>
+  </datarec>
+  <provenance>
+    <processStep>
+      <programName>dicom2bxh</programName>
+      <programArgument>/tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_dti_21/0001.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_dti_21/0002.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_dti_21/0003.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_dti_21/0004.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_dti_21/0005.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_dti_21/0006.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_dti_21/0007.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_dti_21/0008.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_dti_21/0009.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_dti_21/0010.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_dti_21/0011.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_dti_21/0012.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_dti_21/0013.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_dti_21/0014.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_dti_21/0015.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_dti_21/0016.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_dti_21/0017.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_dti_21/0018.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_dti_21/0019.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_dti_21/0020.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_dti_21/0021.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_dti_21/0022.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_dti_21/0023.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_dti_21/0024.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_dti_21/0025.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_dti_21/0026.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_dti_21/0027.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_dti_21/0028.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_dti_21/0029.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_dti_21/0030.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_dti_21/0031.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_dti_21/0032.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_dti_21/0033.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_dti_21/0034.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_dti_21/0035.dcm</programArgument>
+      <version>BXH utilities (1.9.9.4)</version>
+      <timeStamp>2011-08-18 12:55:28</timeStamp>
+      <cvs>/home/gadde/commonlibs/bxh_xcede_tools-1.9.9.4/libsrc/bxh_dicom.cpp v1.1
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.9.4/libsrc/bxh_datarec.cpp v1.89
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.9.4/libsrc/bxh_signa.c v1.49
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.9.4/libsrc/bxh_dom_utils.cpp v1.41
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.9.4/libsrc/bxh_dom_utils-xerces.cpp v1.4
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.9.4/libsrc/bxh_utils.cpp v1.67
+</cvs>
+      <user>rasmussj</user>
+      <machine>i386</machine>
+      <platform>linux</platform>
+      <platformVersion/>
+    </processStep>
+    <processStep>
+      <programName>bxh2analyze</programName>
+      <programArgument>/tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_dti_21/ImageWrapper.xml /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_dti_21/NiftiFormat/f</programArgument>
+      <version>BXH utilities (1.9.8.7)</version>
+      <timeStamp>2011-08-18 12:55:46</timeStamp>
+      <cvs>/home/gadde/commonlibs/bxh_xcede_tools-1.9.8.7/libsrc/bxh_dom_utils-xerces.cpp v1.4
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.8.7/libsrc/bxh_signa.c v1.49
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.8.7/libsrc/bxh_utils.cpp v1.67
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.8.7/libsrc/bxh_dicom.cpp v1.1
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.8.7/utils/bxhabsorb.c v1.39
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.8.7/libsrc/bxh_datarec.cpp v1.89
+</cvs>
+      <user>rasmussj</user>
+      <machine>i386</machine>
+      <platform>linux</platform>
+      <platformVersion/>
+    </processStep>
+  </provenance>
+</serieslevel>

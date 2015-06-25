@@ -1,0 +1,23 @@
+ 8/11 13:46:42 Menu   41 fbirn->'Session 1 -- Screening and Adapt'
+ 8/11 13:46:44 Menu   35 screening->'Verify BIRN Subject ID'
+ 8/11 13:46:45 Alrt   13 Accept_3 <OK>
+ 8/11 13:46:45 Acpt   39 Enter 12 char BIRN I  -> <000974039052>
+ 8/11 13:46:46 Alrt   13 Accept_3 <OK>
+ 8/11 13:46:46 Acpt   36 Re-enter BIRN ID:  -> <000974039052>
+ 8/11 13:46:47 Menu   32 screening->'Calibrate responses'
+ 8/11 13:46:53 Menu   31 screening->'Adapt Instructions'
+ 8/11 13:49:02 Menu   32 screening->'Calibrate responses'
+ 8/11 13:49:43 Menu   20 screening->'Adapt 1'
+ 8/11 13:50:13 Alrt   15 Alert_10 <Okay>
+ 8/11 13:55:52 Edit   20 birnscanset_2 <0009>
+ 8/11 13:55:53 MnGo   22 birnscanset_1 <OK> [1]
+ 8/11 13:56:07 Alrt   12 Alert_3 <OK>
+ 8/11 13:57:03 Menu   20 screening->'Adapt 2'
+ 8/11 13:57:35 Alrt   15 Alert_10 <Okay>
+ 8/11 14:03:23 MnGo   22 birnscanset_1 <OK> [1]
+ 8/11 14:03:40 Alrt   12 Alert_3 <OK>
+ 8/11 14:03:45 Menu   20 screening->'Adapt 3'
+ 8/11 14:04:14 Alrt   15 Alert_10 <Okay>
+ 8/11 14:10:03 MnGo   22 birnscanset_1 <OK> [1]
+ 8/11 14:10:57 Alrt   12 Alert_3 <OK>
+ 8/11 14:43:27 Alrt   16 Confirm_4 <Quit>

@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<serieslevel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://nbirn.net/Resources/Users/Applications/xcede/" xmlns:xcede="http://nbirn.net/Resources/Users/Applications/xcede/">
+  <subject>
+    <name>000974039052</name>
+    <sex>male</sex>
+  </subject>
+  <visit>
+    <subjectVar>
+      <age agetype="postnatal" units="years">41</age>
+    </subjectVar>
+  </visit>
+  <scanner>
+    <model>MRC35044</model>
+  </scanner>
+  <expProtocol>
+    <name>fbirn_t1</name>
+  </expProtocol>
+  <acqProtocol>
+    <name>%SiemensSeq%\tfl</name>
+    <acqParam name="institutionaddress" type="varchar">City Drive 101,Orange/ab2e67cdaf/,Los Angeles,US,92868</acqParam>
+    <acqParam name="institutionaldepartmentname" type="varchar">Department</acqParam>
+    <acqParam name="scanoptions" type="varchar">IR</acqParam>
+    <acqParam name="mracquisitiontype" type="varchar">3D</acqParam>
+    <acqParam name="sequencename" type="varchar">*tfl3d1_ns</acqParam>
+    <acqParam name="angioflag" type="varchar">N</acqParam>
+    <acqParam name="numaverages" type="varchar">1</acqParam>
+    <acqParam name="imagingfrequency" type="varchar">123.253198</acqParam>
+    <acqParam name="imagednucleus" type="varchar">1H</acqParam>
+    <acqParam name="numphaseencodingsteps" type="varchar">191</acqParam>
+    <acqParam name="echotrainlength" type="varchar">1</acqParam>
+    <acqParam name="percentsampling" type="varchar">75</acqParam>
+    <acqParam name="percentphasefieldofview" type="varchar">100</acqParam>
+    <acqParam name="scannerserialnumber" type="varchar">35044</acqParam>
+    <acqParam name="softwareversions" type="varchar">syngo MR B17</acqParam>
+    <acqParam name="inplanephaseencodingdirection" type="varchar">ROW</acqParam>
+    <acqParam name="variableflipangleflag" type="varchar">N</acqParam>
+    <acqParam name="sar" type="varchar">0.11323308344446</acqParam>
+    <acqParam name="dBdt" type="varchar">0</acqParam>
+    <acqParam name="acquisitionnumber" type="varchar">1</acqParam>
+    <acqParam name="instancenumber" type="varchar">1</acqParam>
+    <acqParam name="samplesperpixel" type="varchar">1</acqParam>
+    <acqParam name="photometricinterpretation" type="varchar">MONOCHROME2</acqParam>
+    <acqParam name="rows" type="varchar">256</acqParam>
+    <acqParam name="columns" type="varchar">256</acqParam>
+    <acqParam name="bitsallocated" type="varchar">16</acqParam>
+    <acqParam name="bitsstored" type="varchar">12</acqParam>
+    <acqParam name="highbit" type="varchar">11</acqParam>
+    <acqParam name="pixelbandwidth" type="varchar">238</acqParam>
+    <acqParam name="otherinfo" type="varchar"/>
+    <acqParam name="examnumber" type="integer">1</acqParam>
+    <acqParam name="studyid" type="varchar">000974039052</acqParam>
+    <acqParam name="seriesnumber" type="integer">2</acqParam>
+    <acqParam name="runnumber" type="integer">1</acqParam>
+    <acqParam name="scanningsequence" type="varchar">GR/IR</acqParam>
+    <acqParam name="sequencevariant" type="varchar">SP/MP</acqParam>
+    <acqParam name="magneticfield" type="float">3</acqParam>
+    <acqParam name="description" type="varchar">fbirn_t1</acqParam>
+    <acqParam name="scandate" type="varchar">2011-08-16</acqParam>
+    <acqParam name="scantime" type="varchar">16:21:00</acqParam>
+    <acqParam name="tr" type="float">2300</acqParam>
+    <acqParam name="te" type="float">2.940000</acqParam>
+    <acqParam name="flipangle" type="float">9</acqParam>
+    <acqParam name="prescribedslicespacing" type="float">1.2</acqParam>
+    <acqParam name="frequencydirection" type="integer">2</acqParam>
+    <acqParam name="acquisitionmatrix" type="varchar">256 192</acqParam>
+    <acqParam name="bandwidth" type="float">60.928</acqParam>
+    <acqParam name="transmitcoilname" type="varchar">Body</acqParam>
+    <acqParam name="institution" type="varchar">UC IRVINE MED CTR 3T</acqParam>
+    <acqParam name="examdescription" type="varchar">RESEARCH^DR TURNER</acqParam>
+    <acqParam name="scanner" type="varchar">MRC35044</acqParam>
+    <acqParam name="scannermanufacturer" type="varchar">SIEMENS</acqParam>
+    <acqParam name="scannermodelname" type="varchar">TrioTim</acqParam>
+    <acqParam name="ti" type="varchar">1100</acqParam>
+    <acqParam name="psdname" type="varchar">%SiemensSeq%\tfl</acqParam>
+    <acqParam name="protocolname" type="varchar">fbirn_t1 (fbirn+AF8-t1) </acqParam>
+  </acqProtocol>
+  <datarec type="image">
+    <!--AUTOGEN: Orientation is oblique sagittal -->
+    <rasorigin>99.467796707153 123.05084705353 119.49152565002</rasorigin>
+    <dimension type="x">
+      <size>256</size>
+      <origin>123.05084705353</origin>
+      <spacing>0.859375</spacing>
+      <gap>0</gap>
+      <direction>0 -1 0</direction>
+      <units>mm</units>
+    </dimension>
+    <dimension type="y">
+      <size>256</size>
+      <origin>119.49152565002</origin>
+      <spacing>0.859375</spacing>
+      <gap>0</gap>
+      <direction>0 0 -1</direction>
+      <units>mm</units>
+    </dimension>
+    <dimension type="z">
+      <size>160</size>
+      <origin>99.467796707153</origin>
+      <spacing>1.2</spacing>
+      <gap>0</gap>
+      <direction>-1 0 0</direction>
+      <units>mm</units>
+    </dimension>
+    <byteorder>lsbfirst</byteorder>
+    <elementtype>uint16</elementtype>
+    <filename>f.nii</filename>
+    <fileoffset>352</fileoffset>
+    <filerecordsize>20971520</filerecordsize>
+  </datarec>
+  <provenance>
+    <processStep>
+      <programName>dicom2bxh</programName>
+      <programArgument>/tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0001.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0002.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0003.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0004.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0005.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0006.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0007.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0008.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0009.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0010.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0011.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0012.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0013.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0014.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0015.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0016.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0017.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0018.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0019.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0020.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0021.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0022.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0023.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0024.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0025.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0026.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0027.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0028.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0029.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0030.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0031.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0032.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0033.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0034.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0035.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0036.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0037.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0038.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0039.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0040.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0041.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0042.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0043.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0044.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0045.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0046.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0047.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0048.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0049.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0050.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0051.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0052.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0053.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0054.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0055.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0056.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0057.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0058.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0059.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0060.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0061.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0062.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0063.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0064.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0065.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0066.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0067.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0068.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0069.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0070.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0071.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0072.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0073.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0074.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0075.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0076.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0077.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0078.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0079.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0080.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0081.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0082.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0083.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0084.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0085.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0086.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0087.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0088.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0089.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0090.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0091.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0092.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0093.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0094.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0095.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0096.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0097.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0098.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0099.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0100.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0101.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0102.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0103.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0104.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0105.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0106.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0107.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0108.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0109.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0110.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/0111.dcm [args truncated]</programArgument>
+      <version>BXH utilities (1.9.9.4)</version>
+      <timeStamp>2011-08-18 12:56:00</timeStamp>
+      <cvs>/home/gadde/commonlibs/bxh_xcede_tools-1.9.9.4/libsrc/bxh_dicom.cpp v1.1
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.9.4/libsrc/bxh_datarec.cpp v1.89
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.9.4/libsrc/bxh_signa.c v1.49
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.9.4/libsrc/bxh_dom_utils.cpp v1.41
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.9.4/libsrc/bxh_dom_utils-xerces.cpp v1.4
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.9.4/libsrc/bxh_utils.cpp v1.67
+</cvs>
+      <user>rasmussj</user>
+      <machine>i386</machine>
+      <platform>linux</platform>
+      <platformVersion/>
+    </processStep>
+    <processStep>
+      <programName>bxh2analyze</programName>
+      <programArgument>/tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/ImageWrapper.xml /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_t1_2/NiftiFormat/f</programArgument>
+      <version>BXH utilities (1.9.8.7)</version>
+      <timeStamp>2011-08-18 12:56:04</timeStamp>
+      <cvs>/home/gadde/commonlibs/bxh_xcede_tools-1.9.8.7/libsrc/bxh_dom_utils-xerces.cpp v1.4
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.8.7/libsrc/bxh_signa.c v1.49
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.8.7/libsrc/bxh_utils.cpp v1.67
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.8.7/libsrc/bxh_dicom.cpp v1.1
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.8.7/utils/bxhabsorb.c v1.39
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.8.7/libsrc/bxh_datarec.cpp v1.89
+</cvs>
+      <user>rasmussj</user>
+      <machine>i386</machine>
+      <platform>linux</platform>
+      <platformVersion/>
+    </processStep>
+  </provenance>
+</serieslevel>

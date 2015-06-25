@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<serieslevel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://nbirn.net/Resources/Users/Applications/xcede/" xmlns:xcede="http://nbirn.net/Resources/Users/Applications/xcede/">
+  <subject>
+    <name>000974039052</name>
+    <sex>male</sex>
+  </subject>
+  <visit>
+    <subjectVar>
+      <age agetype="postnatal" units="years">41</age>
+    </subjectVar>
+  </visit>
+  <scanner>
+    <model>MRC35044</model>
+  </scanner>
+  <expProtocol>
+    <name>fbirn_field_mapping</name>
+  </expProtocol>
+  <acqProtocol>
+    <name>%SiemensSeq%\gre_field_mapping</name>
+    <acqParam name="institutionaddress" type="varchar">City Drive 101,Orange/ab2e67cdaf/,Los Angeles,US,92868</acqParam>
+    <acqParam name="institutionaldepartmentname" type="varchar">Department</acqParam>
+    <acqParam name="scanoptions" type="varchar"/>
+    <acqParam name="mracquisitiontype" type="varchar">2D</acqParam>
+    <acqParam name="sequencename" type="varchar">*fm2d2r</acqParam>
+    <acqParam name="angioflag" type="varchar">N</acqParam>
+    <acqParam name="numaverages" type="varchar">1</acqParam>
+    <acqParam name="imagingfrequency" type="varchar">123.253179</acqParam>
+    <acqParam name="imagednucleus" type="varchar">1H</acqParam>
+    <acqParam name="spacingbetweenslices" type="varchar">5</acqParam>
+    <acqParam name="numphaseencodingsteps" type="varchar">64</acqParam>
+    <acqParam name="echotrainlength" type="varchar">1</acqParam>
+    <acqParam name="percentsampling" type="varchar">100</acqParam>
+    <acqParam name="percentphasefieldofview" type="varchar">100</acqParam>
+    <acqParam name="scannerserialnumber" type="varchar">35044</acqParam>
+    <acqParam name="softwareversions" type="varchar">syngo MR B17</acqParam>
+    <acqParam name="inplanephaseencodingdirection" type="varchar">COL</acqParam>
+    <acqParam name="variableflipangleflag" type="varchar">N</acqParam>
+    <acqParam name="sar" type="varchar">0.17508301396161</acqParam>
+    <acqParam name="dBdt" type="varchar">0</acqParam>
+    <acqParam name="acquisitionnumber" type="varchar">1</acqParam>
+    <acqParam name="instancenumber" type="varchar">1</acqParam>
+    <acqParam name="samplesperpixel" type="varchar">1</acqParam>
+    <acqParam name="photometricinterpretation" type="varchar">MONOCHROME2</acqParam>
+    <acqParam name="rows" type="varchar">64</acqParam>
+    <acqParam name="columns" type="varchar">64</acqParam>
+    <acqParam name="bitsallocated" type="varchar">16</acqParam>
+    <acqParam name="bitsstored" type="varchar">12</acqParam>
+    <acqParam name="highbit" type="varchar">11</acqParam>
+    <acqParam name="pixelbandwidth" type="varchar">1532</acqParam>
+    <acqParam name="otherinfo" type="varchar"/>
+    <acqParam name="sliceorder" type="varchar">2,4,6,8,10,12,14,16,18,20,22,24,26,28,30,32,1,3,5,7,9,11,13,15,17,19,21,23,25,27,29,31</acqParam>
+    <acqParam name="examnumber" type="integer">1</acqParam>
+    <acqParam name="studyid" type="varchar">000974039052</acqParam>
+    <acqParam name="seriesnumber" type="integer">5</acqParam>
+    <acqParam name="runnumber" type="integer">1</acqParam>
+    <acqParam name="scanningsequence" type="varchar">GR</acqParam>
+    <acqParam name="sequencevariant" type="varchar">SP</acqParam>
+    <acqParam name="magneticfield" type="float">3</acqParam>
+    <acqParam name="description" type="varchar">fbirn_field_mapping</acqParam>
+    <acqParam name="scandate" type="varchar">2011-08-16</acqParam>
+    <acqParam name="scantime" type="varchar">16:24:52</acqParam>
+    <acqParam name="tr" type="float">500</acqParam>
+    <acqParam name="te" type="float">3.030000 5.490000</acqParam>
+    <acqParam name="flipangle" type="float">55</acqParam>
+    <acqParam name="prescribedslicespacing" type="float">5</acqParam>
+    <acqParam name="frequencydirection" type="integer">1</acqParam>
+    <acqParam name="acquisitionmatrix" type="varchar">64 64</acqParam>
+    <acqParam name="bandwidth" type="float">98.048</acqParam>
+    <acqParam name="transmitcoilname" type="varchar">Body</acqParam>
+    <acqParam name="institution" type="varchar">UC IRVINE MED CTR 3T</acqParam>
+    <acqParam name="examdescription" type="varchar">RESEARCH^DR TURNER</acqParam>
+    <acqParam name="scanner" type="varchar">MRC35044</acqParam>
+    <acqParam name="scannermanufacturer" type="varchar">SIEMENS</acqParam>
+    <acqParam name="scannermodelname" type="varchar">TrioTim</acqParam>
+    <acqParam name="psdname" type="varchar">%SiemensSeq%\gre_field_mapping</acqParam>
+    <acqParam name="protocolname" type="varchar">fbirn_field_mapping (fbirn+AF8-field+AF8-mapping) </acqParam>
+  </acqProtocol>
+  <datarec type="image">
+    <!--AUTOGEN: Orientation is oblique axial -->
+    <rasorigin>110 131.91453711049 12.613225639584</rasorigin>
+    <dimension type="x">
+      <size>64</size>
+      <origin>110</origin>
+      <spacing>3.4375</spacing>
+      <gap>0</gap>
+      <direction>-1 0 0</direction>
+      <units>mm</units>
+    </dimension>
+    <dimension type="y">
+      <size>64</size>
+      <origin>131.91453711049</origin>
+      <spacing>3.4375</spacing>
+      <gap>0</gap>
+      <direction>0 -0.9092361 -0.4162808</direction>
+      <units>mm</units>
+    </dimension>
+    <dimension type="z">
+      <size>32</size>
+      <origin>12.613225639584</origin>
+      <spacing>5.00000005877275</spacing>
+      <gap>1.00000005877275</gap>
+      <direction>0 -0.4162808 0.9092361</direction>
+      <units>mm</units>
+    </dimension>
+    <byteorder>lsbfirst</byteorder>
+    <elementtype>uint16</elementtype>
+    <filename>f.nii</filename>
+    <fileoffset>352</fileoffset>
+    <filerecordsize>262144</filerecordsize>
+  </datarec>
+  <provenance>
+    <processStep>
+      <programName>dicom2bxh</programName>
+      <programArgument>/tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_field_mapping_5/20001.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_field_mapping_5/20002.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_field_mapping_5/20003.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_field_mapping_5/20004.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_field_mapping_5/20005.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_field_mapping_5/20006.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_field_mapping_5/20007.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_field_mapping_5/20008.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_field_mapping_5/20009.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_field_mapping_5/20010.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_field_mapping_5/20011.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_field_mapping_5/20012.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_field_mapping_5/20013.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_field_mapping_5/20014.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_field_mapping_5/20015.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_field_mapping_5/20016.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_field_mapping_5/20017.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_field_mapping_5/20018.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_field_mapping_5/20019.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_field_mapping_5/20020.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_field_mapping_5/20021.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_field_mapping_5/20022.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_field_mapping_5/20023.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_field_mapping_5/20024.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_field_mapping_5/20025.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_field_mapping_5/20026.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_field_mapping_5/20027.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_field_mapping_5/20028.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_field_mapping_5/20029.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_field_mapping_5/20030.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_field_mapping_5/20031.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_field_mapping_5/20032.dcm</programArgument>
+      <version>BXH utilities (1.9.9.4)</version>
+      <timeStamp>2011-08-18 12:55:18</timeStamp>
+      <cvs>/home/gadde/commonlibs/bxh_xcede_tools-1.9.9.4/libsrc/bxh_dicom.cpp v1.1
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.9.4/libsrc/bxh_datarec.cpp v1.89
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.9.4/libsrc/bxh_signa.c v1.49
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.9.4/libsrc/bxh_dom_utils.cpp v1.41
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.9.4/libsrc/bxh_dom_utils-xerces.cpp v1.4
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.9.4/libsrc/bxh_utils.cpp v1.67
+</cvs>
+      <user>rasmussj</user>
+      <machine>i386</machine>
+      <platform>linux</platform>
+      <platformVersion/>
+    </processStep>
+    <processStep>
+      <programName>bxh2analyze</programName>
+      <programArgument>/tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_field_mapping_5/ImageWrapper.xml /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/fbirn_field_mapping_5/NiftiFormat/f</programArgument>
+      <version>BXH utilities (1.9.8.7)</version>
+      <timeStamp>2011-08-18 12:55:18</timeStamp>
+      <cvs>/home/gadde/commonlibs/bxh_xcede_tools-1.9.8.7/libsrc/bxh_dom_utils-xerces.cpp v1.4
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.8.7/libsrc/bxh_signa.c v1.49
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.8.7/libsrc/bxh_utils.cpp v1.67
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.8.7/libsrc/bxh_dicom.cpp v1.1
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.8.7/utils/bxhabsorb.c v1.39
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.8.7/libsrc/bxh_datarec.cpp v1.89
+</cvs>
+      <user>rasmussj</user>
+      <machine>i386</machine>
+      <platform>linux</platform>
+      <platformVersion/>
+    </processStep>
+  </provenance>
+</serieslevel>

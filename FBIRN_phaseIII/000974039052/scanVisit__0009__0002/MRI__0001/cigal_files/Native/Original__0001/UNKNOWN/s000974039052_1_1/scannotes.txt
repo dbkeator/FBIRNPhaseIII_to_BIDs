@@ -1,0 +1,21 @@
+8/11/2011  13:55:54  User nqvu   Computer DTC0584   VSync 48150/125
+  Scan 0 Series 100 Run 0
+  Site 0009 Subject 000974039052 Visit 1 Run 1 TaskRun 1 StimSet 1
+  Scan type: functional
+  Scan name: adapt1   Taskversion: 4/79
+  Comment: none
+
+8/11/2011  14:03:23  User nqvu   Computer DTC0584   VSync 48150/125
+  Scan 0 Series 100 Run 1
+  Site 0009 Subject 000974039052 Visit 1 Run 2 TaskRun 2 StimSet 1
+  Scan type: functional
+  Scan name: adapt2   Taskversion: 4/79
+  Comment: none
+
+8/11/2011  14:10:03  User nqvu   Computer DTC0584   VSync 48150/125
+  Scan 0 Series 100 Run 2
+  Site 0009 Subject 000974039052 Visit 1 Run 3 TaskRun 3 StimSet 1
+  Scan type: functional
+  Scan name: adapt3   Taskversion: 4/79
+  Comment: none
+

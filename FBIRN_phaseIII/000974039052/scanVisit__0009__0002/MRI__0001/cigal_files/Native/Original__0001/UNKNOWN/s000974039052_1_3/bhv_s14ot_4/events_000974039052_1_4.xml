@@ -1,0 +1,1477 @@
+<?xml version="1.0"?>
+<events>
+ <event>
+  <onset>0.001</onset>
+  <duration>4.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>3.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">neutral/7640.jpg</value>
+  <value name="code">500300</value>
+  <value name="stim">neut_nomem</value>
+ </event>
+ <event>
+  <onset>4.988</onset>
+  <duration>5.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>9.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">emotional/9001.jpg</value>
+  <value name="code">311200</value>
+  <value name="stim">pic_emo</value>
+ </event>
+ <event>
+  <onset>10.988</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>11.489</onset>
+  <duration>3.500</duration>
+  <value name="stimulus">user1</value>
+  <value name="code">311504</value>
+  <value name="stim">encode_emo</value>
+ </event>
+ <event>
+  <onset>14.987</onset>
+  <duration>2.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>16.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">user2</value>
+  <value name="code">1311804</value>
+  <value name="stim">probe_emo</value>
+  <value name="valid">yes</value>
+  <value name="responsetime" button="49" units="ms">695</value>
+  <value name="correct" button="49">1</value>
+ </event>
+ <event>
+  <onset>17.987</onset>
+  <duration>2.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>19.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">emotional/6020.jpg</value>
+  <value name="code">345200</value>
+  <value name="stim">pic_emo</value>
+ </event>
+ <event>
+  <onset>20.988</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>21.489</onset>
+  <duration>3.500</duration>
+  <value name="stimulus">user1</value>
+  <value name="code">345508</value>
+  <value name="stim">encode_emo</value>
+ </event>
+ <event>
+  <onset>24.987</onset>
+  <duration>2.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>26.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">user2</value>
+  <value name="code">1345808</value>
+  <value name="stim">probe_emo</value>
+  <value name="valid">yes</value>
+  <value name="responsetime" button="50" units="ms">655</value>
+  <value name="correct" button="49">0</value>
+ </event>
+ <event>
+  <onset>27.987</onset>
+  <duration>2.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>29.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">neutral/2499.jpg</value>
+  <value name="code">535100</value>
+  <value name="stim">pic_neut</value>
+ </event>
+ <event>
+  <onset>30.988</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>31.489</onset>
+  <duration>3.500</duration>
+  <value name="stimulus">user1</value>
+  <value name="code">535408</value>
+  <value name="stim">encode_neut</value>
+ </event>
+ <event>
+  <onset>34.987</onset>
+  <duration>2.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>36.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">user2</value>
+  <value name="code">1535708</value>
+  <value name="stim">probe_neut</value>
+  <value name="valid">yes</value>
+  <value name="responsetime" button="50" units="ms">760</value>
+  <value name="correct" button="49">0</value>
+ </event>
+ <event>
+  <onset>37.987</onset>
+  <duration>8.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>45.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">neutral/7705.jpg</value>
+  <value name="code">483100</value>
+  <value name="stim">pic_neut</value>
+ </event>
+ <event>
+  <onset>46.988</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>47.489</onset>
+  <duration>3.500</duration>
+  <value name="stimulus">user1</value>
+  <value name="code">483406</value>
+  <value name="stim">encode_neut</value>
+ </event>
+ <event>
+  <onset>50.987</onset>
+  <duration>2.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>52.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">user2</value>
+  <value name="code">1483706</value>
+  <value name="stim">probe_neut</value>
+  <value name="valid">yes</value>
+  <value name="responsetime" button="49" units="ms">744</value>
+  <value name="correct" button="49">1</value>
+ </event>
+ <event>
+  <onset>53.987</onset>
+  <duration>6.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>59.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">neutral/7590.jpg</value>
+  <value name="code">481100</value>
+  <value name="stim">pic_neut</value>
+ </event>
+ <event>
+  <onset>60.988</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>61.489</onset>
+  <duration>3.500</duration>
+  <value name="stimulus">user1</value>
+  <value name="code">481404</value>
+  <value name="stim">encode_neut</value>
+ </event>
+ <event>
+  <onset>64.987</onset>
+  <duration>2.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>66.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">user2</value>
+  <value name="code">1481704</value>
+  <value name="stim">probe_neut</value>
+  <value name="valid">yes</value>
+  <value name="responsetime" button="49" units="ms">625</value>
+  <value name="correct" button="49">1</value>
+ </event>
+ <event>
+  <onset>67.987</onset>
+  <duration>2.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>69.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">emotional/6244.jpg</value>
+  <value name="code">313200</value>
+  <value name="stim">pic_emo</value>
+ </event>
+ <event>
+  <onset>70.988</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>71.490</onset>
+  <duration>3.500</duration>
+  <value name="stimulus">user1</value>
+  <value name="code">313506</value>
+  <value name="stim">encode_emo</value>
+ </event>
+ <event>
+  <onset>74.987</onset>
+  <duration>2.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>76.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">user2</value>
+  <value name="code">1313806</value>
+  <value name="stim">probe_emo</value>
+  <value name="valid">yes</value>
+  <value name="responsetime" button="49" units="ms">729</value>
+  <value name="correct" button="49">1</value>
+ </event>
+ <event>
+  <onset>77.987</onset>
+  <duration>2.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>79.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">neutral/7185.jpg</value>
+  <value name="code">505100</value>
+  <value name="stim">pic_neut</value>
+ </event>
+ <event>
+  <onset>80.988</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>81.489</onset>
+  <duration>3.500</duration>
+  <value name="stimulus">user1</value>
+  <value name="code">505408</value>
+  <value name="stim">encode_neut</value>
+ </event>
+ <event>
+  <onset>84.987</onset>
+  <duration>2.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>86.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">user2</value>
+  <value name="code">2505708</value>
+  <value name="stim">probe_neut</value>
+  <value name="valid">no</value>
+  <value name="responsetime" button="50" units="ms">625</value>
+  <value name="correct" button="50">1</value>
+ </event>
+ <event>
+  <onset>87.987</onset>
+  <duration>2.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>89.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">emotional/9909.jpg</value>
+  <value name="code">285200</value>
+  <value name="stim">pic_emo</value>
+ </event>
+ <event>
+  <onset>90.988</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>91.489</onset>
+  <duration>3.500</duration>
+  <value name="stimulus">user1</value>
+  <value name="code">285508</value>
+  <value name="stim">encode_emo</value>
+ </event>
+ <event>
+  <onset>94.987</onset>
+  <duration>2.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>96.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">user2</value>
+  <value name="code">2285808</value>
+  <value name="stim">probe_emo</value>
+  <value name="valid">no</value>
+  <value name="responsetime" button="50" units="ms">690</value>
+  <value name="correct" button="50">1</value>
+ </event>
+ <event>
+  <onset>97.987</onset>
+  <duration>2.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>99.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">emotional/6200.jpg</value>
+  <value name="code">270600</value>
+  <value name="stim">emo_nomem</value>
+ </event>
+ <event>
+  <onset>100.988</onset>
+  <duration>5.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>105.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">neutral/2381.jpg</value>
+  <value name="code">521100</value>
+  <value name="stim">pic_neut</value>
+ </event>
+ <event>
+  <onset>106.988</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>107.489</onset>
+  <duration>3.500</duration>
+  <value name="stimulus">user1</value>
+  <value name="code">521404</value>
+  <value name="stim">encode_neut</value>
+ </event>
+ <event>
+  <onset>110.987</onset>
+  <duration>2.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>112.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">user2</value>
+  <value name="code">2521704</value>
+  <value name="stim">probe_neut</value>
+  <value name="valid">no</value>
+  <value name="responsetime" button="50" units="ms">674</value>
+  <value name="correct" button="50">1</value>
+ </event>
+ <event>
+  <onset>113.987</onset>
+  <duration>2.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>115.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">neutral/7044.jpg</value>
+  <value name="code">470300</value>
+  <value name="stim">neut_nomem</value>
+ </event>
+ <event>
+  <onset>116.988</onset>
+  <duration>7.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>123.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">emotional/2490.jpg</value>
+  <value name="code">333200</value>
+  <value name="stim">pic_emo</value>
+ </event>
+ <event>
+  <onset>124.988</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>125.489</onset>
+  <duration>3.500</duration>
+  <value name="stimulus">user1</value>
+  <value name="code">333506</value>
+  <value name="stim">encode_emo</value>
+ </event>
+ <event>
+  <onset>128.987</onset>
+  <duration>2.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>130.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">user2</value>
+  <value name="code">1333806</value>
+  <value name="stim">probe_emo</value>
+  <value name="valid">yes</value>
+  <value name="responsetime" button="50" units="ms">643</value>
+  <value name="correct" button="49">0</value>
+ </event>
+ <event>
+  <onset>131.987</onset>
+  <duration>4.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>135.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">neutral/7140.jpg</value>
+  <value name="code">553100</value>
+  <value name="stim">pic_neut</value>
+ </event>
+ <event>
+  <onset>136.988</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>137.489</onset>
+  <duration>3.500</duration>
+  <value name="stimulus">user1</value>
+  <value name="code">553406</value>
+  <value name="stim">encode_neut</value>
+ </event>
+ <event>
+  <onset>140.987</onset>
+  <duration>2.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>142.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">user2</value>
+  <value name="code">2553706</value>
+  <value name="stim">probe_neut</value>
+  <value name="valid">no</value>
+  <value name="responsetime" button="50" units="ms">683</value>
+  <value name="correct" button="50">1</value>
+ </event>
+ <event>
+  <onset>143.987</onset>
+  <duration>4.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>147.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">neutral/2191.jpg</value>
+  <value name="code">535100</value>
+  <value name="stim">pic_neut</value>
+ </event>
+ <event>
+  <onset>148.988</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>149.489</onset>
+  <duration>3.500</duration>
+  <value name="stimulus">user1</value>
+  <value name="code">535408</value>
+  <value name="stim">encode_neut</value>
+ </event>
+ <event>
+  <onset>152.987</onset>
+  <duration>2.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>154.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">user2</value>
+  <value name="code">2535708</value>
+  <value name="stim">probe_neut</value>
+  <value name="valid">no</value>
+  <value name="responsetime" button="50" units="ms">876</value>
+  <value name="correct" button="50">1</value>
+ </event>
+ <event>
+  <onset>155.987</onset>
+  <duration>2.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>157.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">emotional/9421.jpg</value>
+  <value name="code">223200</value>
+  <value name="stim">pic_emo</value>
+ </event>
+ <event>
+  <onset>158.988</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>159.489</onset>
+  <duration>3.500</duration>
+  <value name="stimulus">user1</value>
+  <value name="code">223506</value>
+  <value name="stim">encode_emo</value>
+ </event>
+ <event>
+  <onset>162.987</onset>
+  <duration>2.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>164.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">user2</value>
+  <value name="code">2223806</value>
+  <value name="stim">probe_emo</value>
+  <value name="valid">no</value>
+  <value name="responsetime" button="50" units="ms">668</value>
+  <value name="correct" button="50">1</value>
+ </event>
+ <event>
+  <onset>165.987</onset>
+  <duration>6.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>171.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">emotional/6210.jpg</value>
+  <value name="code">300600</value>
+  <value name="stim">emo_nomem</value>
+ </event>
+ <event>
+  <onset>172.988</onset>
+  <duration>5.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>177.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">emotional/2710.jpg</value>
+  <value name="code">251200</value>
+  <value name="stim">pic_emo</value>
+ </event>
+ <event>
+  <onset>178.989</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>179.489</onset>
+  <duration>3.500</duration>
+  <value name="stimulus">user1</value>
+  <value name="code">251504</value>
+  <value name="stim">encode_emo</value>
+ </event>
+ <event>
+  <onset>182.987</onset>
+  <duration>2.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>184.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">user2</value>
+  <value name="code">2251804</value>
+  <value name="stim">probe_emo</value>
+  <value name="valid">no</value>
+  <value name="responsetime" button="50" units="ms">645</value>
+  <value name="correct" button="50">1</value>
+ </event>
+ <event>
+  <onset>185.987</onset>
+  <duration>6.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>191.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">neutral/7058.jpg</value>
+  <value name="code">535100</value>
+  <value name="stim">pic_neut</value>
+ </event>
+ <event>
+  <onset>192.988</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>193.489</onset>
+  <duration>3.500</duration>
+  <value name="stimulus">user1</value>
+  <value name="code">535408</value>
+  <value name="stim">encode_neut</value>
+ </event>
+ <event>
+  <onset>196.987</onset>
+  <duration>2.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>198.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">user2</value>
+  <value name="code">1535708</value>
+  <value name="stim">probe_neut</value>
+  <value name="valid">yes</value>
+  <value name="responsetime" button="49" units="ms">685</value>
+  <value name="correct" button="49">1</value>
+ </event>
+ <event>
+  <onset>199.987</onset>
+  <duration>4.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>203.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">emotional/2800.jpg</value>
+  <value name="code">181200</value>
+  <value name="stim">pic_emo</value>
+ </event>
+ <event>
+  <onset>204.988</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>205.489</onset>
+  <duration>3.500</duration>
+  <value name="stimulus">user1</value>
+  <value name="code">181504</value>
+  <value name="stim">encode_emo</value>
+ </event>
+ <event>
+  <onset>208.987</onset>
+  <duration>2.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>210.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">user2</value>
+  <value name="code">1181804</value>
+  <value name="stim">probe_emo</value>
+  <value name="valid">yes</value>
+  <value name="responsetime" button="49" units="ms">693</value>
+  <value name="correct" button="49">1</value>
+ </event>
+ <event>
+  <onset>211.987</onset>
+  <duration>2.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>213.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">neutral/2397.jpg</value>
+  <value name="code">503100</value>
+  <value name="stim">pic_neut</value>
+ </event>
+ <event>
+  <onset>214.988</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>215.489</onset>
+  <duration>3.500</duration>
+  <value name="stimulus">user1</value>
+  <value name="code">503406</value>
+  <value name="stim">encode_neut</value>
+ </event>
+ <event>
+  <onset>218.987</onset>
+  <duration>2.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>220.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">user2</value>
+  <value name="code">2503706</value>
+  <value name="stim">probe_neut</value>
+  <value name="valid">no</value>
+  <value name="responsetime" button="50" units="ms">694</value>
+  <value name="correct" button="50">1</value>
+ </event>
+ <event>
+  <onset>221.987</onset>
+  <duration>2.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>223.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">emotional/9424.jpg</value>
+  <value name="code">293200</value>
+  <value name="stim">pic_emo</value>
+ </event>
+ <event>
+  <onset>224.988</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>225.489</onset>
+  <duration>3.500</duration>
+  <value name="stimulus">user1</value>
+  <value name="code">293506</value>
+  <value name="stim">encode_emo</value>
+ </event>
+ <event>
+  <onset>228.987</onset>
+  <duration>2.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>230.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">user2</value>
+  <value name="code">1293806</value>
+  <value name="stim">probe_emo</value>
+  <value name="valid">yes</value>
+  <value name="responsetime" button="49" units="ms">894</value>
+  <value name="correct" button="49">1</value>
+ </event>
+ <event>
+  <onset>231.987</onset>
+  <duration>4.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>235.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">emotional/2278.jpg</value>
+  <value name="code">340600</value>
+  <value name="stim">emo_nomem</value>
+ </event>
+ <event>
+  <onset>236.988</onset>
+  <duration>5.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>241.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">neutral/7184.jpg</value>
+  <value name="code">483100</value>
+  <value name="stim">pic_neut</value>
+ </event>
+ <event>
+  <onset>242.988</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>243.489</onset>
+  <duration>3.500</duration>
+  <value name="stimulus">user1</value>
+  <value name="code">483406</value>
+  <value name="stim">encode_neut</value>
+ </event>
+ <event>
+  <onset>246.987</onset>
+  <duration>2.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>248.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">user2</value>
+  <value name="code">2483706</value>
+  <value name="stim">probe_neut</value>
+  <value name="valid">no</value>
+  <value name="responsetime" button="50" units="ms">799</value>
+  <value name="correct" button="50">1</value>
+ </event>
+ <event>
+  <onset>249.987</onset>
+  <duration>2.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>251.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">emotional/9331.jpg</value>
+  <value name="code">295200</value>
+  <value name="stim">pic_emo</value>
+ </event>
+ <event>
+  <onset>252.988</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>253.489</onset>
+  <duration>3.500</duration>
+  <value name="stimulus">user1</value>
+  <value name="code">295508</value>
+  <value name="stim">encode_emo</value>
+ </event>
+ <event>
+  <onset>256.987</onset>
+  <duration>2.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>258.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">user2</value>
+  <value name="code">2295808</value>
+  <value name="stim">probe_emo</value>
+  <value name="valid">no</value>
+  <value name="responsetime" button="50" units="ms">879</value>
+  <value name="correct" button="50">1</value>
+ </event>
+ <event>
+  <onset>259.987</onset>
+  <duration>4.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>263.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">neutral/9700.jpg</value>
+  <value name="code">481100</value>
+  <value name="stim">pic_neut</value>
+ </event>
+ <event>
+  <onset>264.988</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>265.489</onset>
+  <duration>3.500</duration>
+  <value name="stimulus">user1</value>
+  <value name="code">481404</value>
+  <value name="stim">encode_neut</value>
+ </event>
+ <event>
+  <onset>268.987</onset>
+  <duration>2.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>270.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">user2</value>
+  <value name="code">1481704</value>
+  <value name="stim">probe_neut</value>
+  <value name="valid">yes</value>
+  <value name="responsetime" button="49" units="ms">1000</value>
+  <value name="correct" button="49">1</value>
+ </event>
+ <event>
+  <onset>271.987</onset>
+  <duration>2.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>273.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">emotional/9332.jpg</value>
+  <value name="code">221200</value>
+  <value name="stim">pic_emo</value>
+ </event>
+ <event>
+  <onset>274.988</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>275.489</onset>
+  <duration>3.500</duration>
+  <value name="stimulus">user1</value>
+  <value name="code">221504</value>
+  <value name="stim">encode_emo</value>
+ </event>
+ <event>
+  <onset>278.987</onset>
+  <duration>2.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>280.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">user2</value>
+  <value name="code">2221804</value>
+  <value name="stim">probe_emo</value>
+  <value name="valid">no</value>
+  <value name="responsetime" button="50" units="ms">600</value>
+  <value name="correct" button="50">1</value>
+ </event>
+ <event>
+  <onset>281.987</onset>
+  <duration>2.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>283.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">neutral/2487.jpg</value>
+  <value name="code">521100</value>
+  <value name="stim">pic_neut</value>
+ </event>
+ <event>
+  <onset>284.988</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>285.489</onset>
+  <duration>3.500</duration>
+  <value name="stimulus">user1</value>
+  <value name="code">521404</value>
+  <value name="stim">encode_neut</value>
+ </event>
+ <event>
+  <onset>288.987</onset>
+  <duration>2.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>290.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">user2</value>
+  <value name="code">1521704</value>
+  <value name="stim">probe_neut</value>
+  <value name="valid">yes</value>
+  <value name="responsetime" button="49" units="ms">640</value>
+  <value name="correct" button="49">1</value>
+ </event>
+ <event>
+  <onset>291.987</onset>
+  <duration>4.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>295.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">emotional/9903.jpg</value>
+  <value name="code">243200</value>
+  <value name="stim">pic_emo</value>
+ </event>
+ <event>
+  <onset>296.988</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>297.489</onset>
+  <duration>3.500</duration>
+  <value name="stimulus">user1</value>
+  <value name="code">243506</value>
+  <value name="stim">encode_emo</value>
+ </event>
+ <event>
+  <onset>300.987</onset>
+  <duration>2.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>302.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">user2</value>
+  <value name="code">2243806</value>
+  <value name="stim">probe_emo</value>
+  <value name="valid">no</value>
+  <value name="responsetime" button="50" units="ms">680</value>
+  <value name="correct" button="50">1</value>
+ </event>
+ <event>
+  <onset>303.987</onset>
+  <duration>2.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>305.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">neutral/7026.jpg</value>
+  <value name="code">543100</value>
+  <value name="stim">pic_neut</value>
+ </event>
+ <event>
+  <onset>306.988</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>307.489</onset>
+  <duration>3.500</duration>
+  <value name="stimulus">user1</value>
+  <value name="code">543406</value>
+  <value name="stim">encode_neut</value>
+ </event>
+ <event>
+  <onset>310.987</onset>
+  <duration>2.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>312.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">user2</value>
+  <value name="code">1543706</value>
+  <value name="stim">probe_neut</value>
+  <value name="valid">yes</value>
+  <value name="responsetime" button="50" units="ms">689</value>
+  <value name="correct" button="49">0</value>
+ </event>
+ <event>
+  <onset>313.987</onset>
+  <duration>2.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>315.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">neutral/2026.jpg</value>
+  <value name="code">480300</value>
+  <value name="stim">neut_nomem</value>
+ </event>
+ <event>
+  <onset>316.988</onset>
+  <duration>5.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>321.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">neutral/2211.jpg</value>
+  <value name="code">525100</value>
+  <value name="stim">pic_neut</value>
+ </event>
+ <event>
+  <onset>322.988</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>323.489</onset>
+  <duration>3.500</duration>
+  <value name="stimulus">user1</value>
+  <value name="code">525408</value>
+  <value name="stim">encode_neut</value>
+ </event>
+ <event>
+  <onset>326.987</onset>
+  <duration>2.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>328.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">user2</value>
+  <value name="code">1525708</value>
+  <value name="stim">probe_neut</value>
+  <value name="valid">yes</value>
+  <value name="responsetime" button="50" units="ms">673</value>
+  <value name="correct" button="49">0</value>
+ </event>
+ <event>
+  <onset>329.987</onset>
+  <duration>4.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>333.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">neutral/2394.jpg</value>
+  <value name="code">580300</value>
+  <value name="stim">neut_nomem</value>
+ </event>
+ <event>
+  <onset>334.988</onset>
+  <duration>5.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>339.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">emotional/9831.jpg</value>
+  <value name="code">305200</value>
+  <value name="stim">pic_emo</value>
+ </event>
+ <event>
+  <onset>340.988</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>341.490</onset>
+  <duration>3.500</duration>
+  <value name="stimulus">user1</value>
+  <value name="code">305508</value>
+  <value name="stim">encode_emo</value>
+ </event>
+ <event>
+  <onset>344.987</onset>
+  <duration>2.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>346.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">user2</value>
+  <value name="code">2305808</value>
+  <value name="stim">probe_emo</value>
+  <value name="valid">no</value>
+  <value name="responsetime" button="49" units="ms">1026</value>
+  <value name="correct" button="50">0</value>
+ </event>
+ <event>
+  <onset>347.987</onset>
+  <duration>6.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>353.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">emotional/9041.jpg</value>
+  <value name="code">301200</value>
+  <value name="stim">pic_emo</value>
+ </event>
+ <event>
+  <onset>354.988</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>355.489</onset>
+  <duration>3.500</duration>
+  <value name="stimulus">user1</value>
+  <value name="code">301504</value>
+  <value name="stim">encode_emo</value>
+ </event>
+ <event>
+  <onset>358.987</onset>
+  <duration>2.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>360.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">user2</value>
+  <value name="code">2301804</value>
+  <value name="stim">probe_emo</value>
+  <value name="valid">no</value>
+  <value name="responsetime" button="49" units="ms">642</value>
+  <value name="correct" button="50">0</value>
+ </event>
+ <event>
+  <onset>361.987</onset>
+  <duration>2.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>363.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">emotional/9611.jpg</value>
+  <value name="code">270600</value>
+  <value name="stim">emo_nomem</value>
+ </event>
+ <event>
+  <onset>364.988</onset>
+  <duration>7.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>371.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">emotional/6510.jpg</value>
+  <value name="code">255200</value>
+  <value name="stim">pic_emo</value>
+ </event>
+ <event>
+  <onset>372.988</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>373.489</onset>
+  <duration>3.500</duration>
+  <value name="stimulus">user1</value>
+  <value name="code">255508</value>
+  <value name="stim">encode_emo</value>
+ </event>
+ <event>
+  <onset>376.987</onset>
+  <duration>2.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>378.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">user2</value>
+  <value name="code">1255808</value>
+  <value name="stim">probe_emo</value>
+  <value name="valid">yes</value>
+  <value name="responsetime" button="50" units="ms">931</value>
+  <value name="correct" button="49">0</value>
+ </event>
+ <event>
+  <onset>379.987</onset>
+  <duration>2.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>381.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">neutral/1675.jpg</value>
+  <value name="code">521100</value>
+  <value name="stim">pic_neut</value>
+ </event>
+ <event>
+  <onset>382.988</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>383.489</onset>
+  <duration>3.500</duration>
+  <value name="stimulus">user1</value>
+  <value name="code">521404</value>
+  <value name="stim">encode_neut</value>
+ </event>
+ <event>
+  <onset>386.987</onset>
+  <duration>2.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>388.989</onset>
+  <duration>1.000</duration>
+  <value name="stimulus">user2</value>
+  <value name="code">2521704</value>
+  <value name="stim">probe_neut</value>
+  <value name="valid">no</value>
+  <value name="responsetime" button="50" units="ms">627</value>
+  <value name="correct" button="50">1</value>
+ </event>
+ <event>
+  <onset>389.987</onset>
+  <duration>10.000</duration>
+  <value name="stimulus">objrun/object_bckgd.jpg</value>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+ <event>
+  <onset>400.987</onset>
+  <value name="code">0</value>
+  <value name="stim">bckgd</value>
+ </event>
+</events>

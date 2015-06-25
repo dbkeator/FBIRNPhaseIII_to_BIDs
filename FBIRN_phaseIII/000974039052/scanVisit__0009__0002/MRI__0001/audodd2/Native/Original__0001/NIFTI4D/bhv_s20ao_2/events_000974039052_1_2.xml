@@ -1,0 +1,3585 @@
+<?xml version="1.0"?>
+<events>
+ <event>
+  <onset>0.001</onset>
+  <value name="stimulus">fix</value>
+  <value name="code">1</value>
+  <value name="event">fix</value>
+ </event>
+ <event>
+  <onset>0.001</onset>
+  <duration>15.000</duration>
+  <value name="stimulus">AudOddball\silence.wav</value>
+  <value name="code">2</value>
+  <value name="event">silence</value>
+ </event>
+ <event>
+  <onset>14.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>15.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>15.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>16.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>16.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>17.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>17.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>18.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>18.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>19.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>19.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>20.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>20.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>21.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>21.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>22.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>22.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>23.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1200.wav</value>
+  <value name="code">6</value>
+  <value name="event">oddball</value>
+  <value name="responsetime" button="50" units="ms">301</value>
+  <value name="correct" button="0">0</value>
+ </event>
+ <event>
+  <onset>23.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>24.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>24.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>25.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>25.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>26.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>26.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>27.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>27.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>28.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>28.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>29.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>29.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1200.wav</value>
+  <value name="code">6</value>
+  <value name="event">oddball</value>
+  <value name="responsetime" button="50" units="ms">442</value>
+  <value name="correct" button="0">0</value>
+ </event>
+ <event>
+  <onset>30.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>30.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>31.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>31.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>32.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>32.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>33.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>33.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>34.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>34.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>35.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>35.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>36.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>36.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>37.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>37.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>38.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1200.wav</value>
+  <value name="code">6</value>
+  <value name="event">oddball</value>
+  <value name="responsetime" button="50" units="ms">302</value>
+  <value name="correct" button="0">0</value>
+ </event>
+ <event>
+  <onset>38.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>39.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>39.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>40.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>40.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>41.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>41.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>42.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>42.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>43.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>43.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>44.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>44.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>45.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>45.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1200.wav</value>
+  <value name="code">6</value>
+  <value name="event">oddball</value>
+  <value name="responsetime" button="50" units="ms">322</value>
+  <value name="correct" button="0">0</value>
+ </event>
+ <event>
+  <onset>46.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>46.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>47.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>47.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>48.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>48.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>49.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>49.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>50.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>50.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>51.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>51.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>52.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>52.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>53.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>53.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1200.wav</value>
+  <value name="code">6</value>
+  <value name="event">oddball</value>
+  <value name="responsetime" button="50" units="ms">282</value>
+  <value name="correct" button="0">0</value>
+ </event>
+ <event>
+  <onset>54.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>54.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>55.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>55.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>56.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>56.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>57.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>57.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>58.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>58.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>59.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>59.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>60.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>60.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1200.wav</value>
+  <value name="code">6</value>
+  <value name="event">oddball</value>
+  <value name="responsetime" button="50" units="ms">379</value>
+  <value name="correct" button="0">0</value>
+ </event>
+ <event>
+  <onset>61.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>61.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>62.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>62.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>63.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>63.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>64.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>64.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>65.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>65.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>66.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>66.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>67.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>67.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>68.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>68.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>69.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>69.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>70.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>70.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>71.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>71.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1200.wav</value>
+  <value name="code">6</value>
+  <value name="event">oddball</value>
+  <value name="responsetime" button="50" units="ms">267</value>
+  <value name="correct" button="0">0</value>
+ </event>
+ <event>
+  <onset>72.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>72.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>73.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>73.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>74.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>74.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>75.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>75.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>76.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>76.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>77.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>77.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1200.wav</value>
+  <value name="code">6</value>
+  <value name="event">oddball</value>
+  <value name="responsetime" button="50" units="ms">331</value>
+  <value name="correct" button="0">0</value>
+ </event>
+ <event>
+  <onset>78.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>78.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>79.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>79.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>80.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>80.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>81.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>81.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>82.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>82.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>83.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>83.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>84.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>84.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>85.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>85.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>86.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>86.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>87.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>87.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>88.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>88.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>89.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>89.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1200.wav</value>
+  <value name="code">6</value>
+  <value name="event">oddball</value>
+  <value name="responsetime" button="50" units="ms">268</value>
+  <value name="correct" button="0">0</value>
+ </event>
+ <event>
+  <onset>90.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>90.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>91.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>91.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>92.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>92.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>93.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>93.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>94.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>94.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>95.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>95.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>96.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>96.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>97.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>97.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>98.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>98.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>99.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>99.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>100.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>100.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>101.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>101.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>102.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>102.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>103.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>103.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1200.wav</value>
+  <value name="code">6</value>
+  <value name="event">oddball</value>
+  <value name="responsetime" button="50" units="ms">284</value>
+  <value name="correct" button="0">0</value>
+ </event>
+ <event>
+  <onset>104.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>104.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>105.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>105.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>106.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>106.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>107.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>107.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>108.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>108.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>109.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>109.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1200.wav</value>
+  <value name="code">6</value>
+  <value name="event">oddball</value>
+  <value name="responsetime" button="50" units="ms">316</value>
+  <value name="correct" button="0">0</value>
+ </event>
+ <event>
+  <onset>110.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>110.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>111.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>111.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>112.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>112.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>113.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>113.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>114.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>114.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>115.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>115.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>116.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>116.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>117.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>117.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>118.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>118.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>119.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1200.wav</value>
+  <value name="code">6</value>
+  <value name="event">oddball</value>
+  <value name="responsetime" button="50" units="ms">305</value>
+  <value name="correct" button="0">0</value>
+ </event>
+ <event>
+  <onset>119.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>120.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>120.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>121.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>121.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>122.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>122.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>123.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>123.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>124.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>124.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>125.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>125.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1200.wav</value>
+  <value name="code">6</value>
+  <value name="event">oddball</value>
+  <value name="responsetime" button="50" units="ms">245</value>
+  <value name="correct" button="0">0</value>
+ </event>
+ <event>
+  <onset>126.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>126.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>127.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>127.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>128.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>128.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>129.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>129.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>130.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>130.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>131.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>131.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>132.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>132.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>133.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>133.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>134.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>134.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>135.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>135.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1200.wav</value>
+  <value name="code">6</value>
+  <value name="event">oddball</value>
+  <value name="responsetime" button="50" units="ms">245</value>
+  <value name="correct" button="0">0</value>
+ </event>
+ <event>
+  <onset>136.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>136.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>137.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>137.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>138.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>138.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>139.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>139.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>140.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>140.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>141.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>141.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>142.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>142.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1200.wav</value>
+  <value name="code">6</value>
+  <value name="event">oddball</value>
+  <value name="responsetime" button="50" units="ms">301</value>
+  <value name="correct" button="0">0</value>
+ </event>
+ <event>
+  <onset>143.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>143.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>144.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>144.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>145.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>145.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>146.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>146.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>147.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>147.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>148.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>148.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>149.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>149.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>150.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1200.wav</value>
+  <value name="code">6</value>
+  <value name="event">oddball</value>
+  <value name="responsetime" button="50" units="ms">337</value>
+  <value name="correct" button="0">0</value>
+ </event>
+ <event>
+  <onset>150.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>151.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>151.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>152.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>152.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>153.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>153.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>154.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>154.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>155.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>155.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>156.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>156.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1200.wav</value>
+  <value name="code">6</value>
+  <value name="event">oddball</value>
+  <value name="responsetime" button="50" units="ms">342</value>
+  <value name="correct" button="0">0</value>
+ </event>
+ <event>
+  <onset>157.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>157.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>158.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>158.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>159.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>159.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>160.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>160.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>161.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>161.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>162.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>162.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>163.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>163.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>164.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>164.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>165.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>165.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>166.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>166.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>167.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>167.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>168.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>168.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>169.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>169.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1200.wav</value>
+  <value name="code">6</value>
+  <value name="event">oddball</value>
+  <value name="responsetime" button="50" units="ms">254</value>
+  <value name="correct" button="0">0</value>
+ </event>
+ <event>
+  <onset>170.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>170.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>171.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>171.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>172.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>172.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>173.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>173.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>174.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>174.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>175.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>175.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>176.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1200.wav</value>
+  <value name="code">6</value>
+  <value name="event">oddball</value>
+  <value name="responsetime" button="50" units="ms">314</value>
+  <value name="correct" button="0">0</value>
+ </event>
+ <event>
+  <onset>176.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>177.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>177.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>178.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>178.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>179.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>179.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>180.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>180.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>181.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>181.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>182.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>182.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1200.wav</value>
+  <value name="code">6</value>
+  <value name="event">oddball</value>
+  <value name="responsetime" button="50" units="ms">262</value>
+  <value name="correct" button="0">0</value>
+ </event>
+ <event>
+  <onset>183.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>183.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>184.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>184.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>185.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>185.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>186.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>186.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>187.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>187.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>188.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>188.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>189.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>189.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1200.wav</value>
+  <value name="code">6</value>
+  <value name="event">oddball</value>
+  <value name="responsetime" button="50" units="ms">287</value>
+  <value name="correct" button="0">0</value>
+ </event>
+ <event>
+  <onset>190.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>190.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>191.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>191.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>192.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>192.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>193.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>193.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>194.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>194.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>195.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>195.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>196.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>196.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>197.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>197.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>198.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>198.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1200.wav</value>
+  <value name="code">6</value>
+  <value name="event">oddball</value>
+  <value name="responsetime" button="50" units="ms">255</value>
+  <value name="correct" button="0">0</value>
+ </event>
+ <event>
+  <onset>199.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>199.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>200.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>200.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>201.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>201.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>202.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>202.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>203.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>203.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>204.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>204.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1200.wav</value>
+  <value name="code">6</value>
+  <value name="event">oddball</value>
+  <value name="responsetime" button="50" units="ms">391</value>
+  <value name="correct" button="0">0</value>
+ </event>
+ <event>
+  <onset>205.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>205.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>206.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>206.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>207.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>207.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>208.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>208.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>209.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>209.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>210.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>210.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>211.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>211.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>212.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>212.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>213.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>213.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>214.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1200.wav</value>
+  <value name="code">6</value>
+  <value name="event">oddball</value>
+  <value name="responsetime" button="50" units="ms">227</value>
+  <value name="correct" button="0">0</value>
+ </event>
+ <event>
+  <onset>214.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>215.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>215.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>216.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>216.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>217.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>217.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>218.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>218.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>219.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>219.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>220.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>220.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>221.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>221.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>222.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>222.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>223.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>223.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>224.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>224.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>225.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>225.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1200.wav</value>
+  <value name="code">6</value>
+  <value name="event">oddball</value>
+  <value name="responsetime" button="50" units="ms">224</value>
+  <value name="correct" button="0">0</value>
+ </event>
+ <event>
+  <onset>226.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>226.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>227.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>227.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>228.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>228.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>229.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>229.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>230.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>230.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>231.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>231.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>232.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>232.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>233.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1200.wav</value>
+  <value name="code">6</value>
+  <value name="event">oddball</value>
+  <value name="responsetime" button="50" units="ms">300</value>
+  <value name="correct" button="0">0</value>
+ </event>
+ <event>
+  <onset>233.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>234.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>234.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>235.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>235.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>236.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>236.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>237.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>237.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>238.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>238.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>239.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>239.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>240.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>240.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>241.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>241.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>242.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>242.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>243.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1200.wav</value>
+  <value name="code">6</value>
+  <value name="event">oddball</value>
+  <value name="responsetime" button="50" units="ms">292</value>
+  <value name="correct" button="0">0</value>
+ </event>
+ <event>
+  <onset>243.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>244.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>244.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>245.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>245.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>246.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>246.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>247.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>247.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>248.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>248.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>249.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>249.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>250.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1200.wav</value>
+  <value name="code">6</value>
+  <value name="event">oddball</value>
+  <value name="responsetime" button="50" units="ms">317</value>
+  <value name="correct" button="0">0</value>
+ </event>
+ <event>
+  <onset>250.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>251.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>251.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>252.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>252.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>253.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>253.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>254.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>254.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>255.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>255.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>256.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>256.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>257.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>257.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>258.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>258.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1200.wav</value>
+  <value name="code">6</value>
+  <value name="event">oddball</value>
+  <value name="responsetime" button="50" units="ms">289</value>
+  <value name="correct" button="0">0</value>
+ </event>
+ <event>
+  <onset>259.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>259.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>260.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>260.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>261.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>261.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>262.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>262.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>263.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>263.987</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>264.487</onset>
+  <duration>0.500</duration>
+  <value name="stimulus">AudOddball\1000.wav</value>
+  <value name="code">4</value>
+  <value name="event">standard</value>
+ </event>
+ <event>
+  <onset>264.987</onset>
+  <duration>15.000</duration>
+  <value name="stimulus">AudOddball\silence.wav</value>
+  <value name="code">2</value>
+  <value name="event">silence</value>
+ </event>
+ <event>
+  <onset>280.987</onset>
+  <value name="code">0</value>
+ </event>
+</events>

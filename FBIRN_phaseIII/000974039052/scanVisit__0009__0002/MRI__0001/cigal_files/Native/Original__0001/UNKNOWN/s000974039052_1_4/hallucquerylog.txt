@@ -1,0 +1,7 @@
+      0 Sometimes people hear voices when no one is talking. Did that happen to you today in the scanner?
+      0 Did it happen a lot?
+      0 Was it distracting?
+      0 Was it the voice of one person?
+      0 Was the person talking about you?
+      0 Was it more than one person?
+      0 Were they having a conversation?

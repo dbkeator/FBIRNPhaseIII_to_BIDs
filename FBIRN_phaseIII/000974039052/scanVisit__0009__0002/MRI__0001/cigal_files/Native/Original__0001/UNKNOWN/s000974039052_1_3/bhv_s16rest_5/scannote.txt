@@ -1,0 +1,7 @@
+8/16/2011  17:14:14  User Useradmin   Computer BIC-3TSCAN   VSync 48150/124
+  Scan 0 Series 16 Run 0
+  Site 0009 Subject 000974039052 Visit 1 Run 5 TaskRun 65 StimSet 7
+  Scan type: functional
+  Scan name: rest65
+  Comment: none
+

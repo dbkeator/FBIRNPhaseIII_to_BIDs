@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<serieslevel xmlns='http://nbirn.net/Resources/Users/Applications/xcede/' xmlns:xcede='http://nbirn.net/Resources/Users/Applications/xcede/' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+  <subject>
+    <name>000974039052</name>
+    <sex>male</sex>
+  </subject>
+  <visit>
+    <subjectVar>
+      <age agetype='postnatal' units='years'>41</age>
+    </subjectVar>
+  </visit>
+  <scanner>
+    <model>MRC35044</model>
+  </scanner>
+  <expProtocol>
+    <name>ep2d_64x64_MINCON</name>
+  </expProtocol>
+  <acqProtocol>
+    <name>%SiemensSeq%\ep2d_bold</name>
+    <acqParam name='institutionaddress' type='varchar'>City Drive 101,Orange/ab2e67cdaf/,Los Angeles,US,92868</acqParam>
+    <acqParam name='institutionaldepartmentname' type='varchar'>Department</acqParam>
+    <acqParam name='scanoptions' type='varchar'>FS</acqParam>
+    <acqParam name='mracquisitiontype' type='varchar'>2D</acqParam>
+    <acqParam name='sequencename' type='varchar'>*epfid2d1_64</acqParam>
+    <acqParam name='angioflag' type='varchar'>N</acqParam>
+    <acqParam name='numaverages' type='varchar'>1</acqParam>
+    <acqParam name='imagingfrequency' type='varchar'>123.253165</acqParam>
+    <acqParam name='imagednucleus' type='varchar'>1H</acqParam>
+    <acqParam name='spacingbetweenslices' type='varchar'>5.000000096371</acqParam>
+    <acqParam name='numphaseencodingsteps' type='varchar'>63</acqParam>
+    <acqParam name='echotrainlength' type='varchar'>1</acqParam>
+    <acqParam name='percentsampling' type='varchar'>100</acqParam>
+    <acqParam name='percentphasefieldofview' type='varchar'>100</acqParam>
+    <acqParam name='scannerserialnumber' type='varchar'>35044</acqParam>
+    <acqParam name='softwareversions' type='varchar'>syngo MR B17</acqParam>
+    <acqParam name='inplanephaseencodingdirection' type='varchar'>COL</acqParam>
+    <acqParam name='variableflipangleflag' type='varchar'>N</acqParam>
+    <acqParam name='sar' type='varchar'>0.12348517234927</acqParam>
+    <acqParam name='dBdt' type='varchar'>0</acqParam>
+    <acqParam name='acquisitionnumber' type='varchar'>1</acqParam>
+    <acqParam name='instancenumber' type='varchar'>1</acqParam>
+    <acqParam name='samplesperpixel' type='varchar'>1</acqParam>
+    <acqParam name='photometricinterpretation' type='varchar'>MONOCHROME2</acqParam>
+    <acqParam name='rows' type='varchar'>320</acqParam>
+    <acqParam name='columns' type='varchar'>320</acqParam>
+    <acqParam name='bitsallocated' type='varchar'>16</acqParam>
+    <acqParam name='bitsstored' type='varchar'>12</acqParam>
+    <acqParam name='highbit' type='varchar'>11</acqParam>
+    <acqParam name='pixelbandwidth' type='varchar'>2604</acqParam>
+    <acqParam name='otherinfo' type='varchar'/>
+    <acqParam name='sliceorder' type='varchar'>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24</acqParam>
+    <acqParam name='examnumber' type='integer'>1</acqParam>
+    <acqParam name='studyid' type='varchar'>000974039052</acqParam>
+    <acqParam name='seriesnumber' type='integer'>6</acqParam>
+    <acqParam name='runnumber' type='integer'>1</acqParam>
+    <acqParam name='scanningsequence' type='varchar'>EP</acqParam>
+    <acqParam name='sequencevariant' type='varchar'>SK</acqParam>
+    <acqParam name='magneticfield' type='float'>3</acqParam>
+    <acqParam name='description' type='varchar'>ep2d_64x64_MINCON</acqParam>
+    <acqParam name='scandate' type='varchar'>2011-08-16</acqParam>
+    <acqParam name='scantime' type='varchar'>16:25:15</acqParam>
+    <acqParam name='tr' type='float'>2000</acqParam>
+    <acqParam name='te' type='float'>12.000000</acqParam>
+    <acqParam name='flipangle' type='float'>77</acqParam>
+    <acqParam name='prescribedslicespacing' type='float'>5</acqParam>
+    <acqParam name='frequencydirection' type='integer'>1</acqParam>
+    <acqParam name='acquisitionmatrix' type='varchar'>64 64</acqParam>
+    <acqParam name='bandwidth' type='float'>166.656</acqParam>
+    <acqParam name='transmitcoilname' type='varchar'>Body</acqParam>
+    <acqParam name='institution' type='varchar'>UC IRVINE MED CTR 3T</acqParam>
+    <acqParam name='examdescription' type='varchar'>RESEARCH^DR TURNER</acqParam>
+    <acqParam name='scanner' type='varchar'>MRC35044</acqParam>
+    <acqParam name='scannermanufacturer' type='varchar'>SIEMENS</acqParam>
+    <acqParam name='scannermodelname' type='varchar'>TrioTim</acqParam>
+    <acqParam name='psdname' type='varchar'>%SiemensSeq%\ep2d_bold</acqParam>
+    <acqParam name='protocolname' type='varchar'>ep2d_64x64_MINCON (ep2d+AF8-64x64+AF8-MINCON) </acqParam>
+    <acqParam type='varchar' name='skipInitialVols'>0</acqParam>
+  </acqProtocol>
+  <datarec type='image'>
+    <!--AUTOGEN: Orientation is oblique axial -->
+    <rasorigin>108.28125 122.026171688478 30.0824642375983</rasorigin>
+    <dimension type='x'>
+      <size>64</size>
+      <origin>108.28125</origin>
+      <spacing>3.4375</spacing>
+      <gap>0</gap>
+      <direction>-1 0 0</direction>
+      <units>mm</units>
+    </dimension>
+    <dimension type='y'>
+      <size>64</size>
+      <origin>122.026171688478</origin>
+      <spacing>3.4375</spacing>
+      <gap>0</gap>
+      <direction>0 -0.9092361 -0.4162808</direction>
+      <units>mm</units>
+    </dimension>
+    <dimension type='z'>
+      <size>24</size>
+      <origin>30.0824642375983</origin>
+      <spacing>4.99999999998465</spacing>
+      <gap>0.999999999984653</gap>
+      <direction>0 -0.4162808 0.9092361</direction>
+      <units>mm</units>
+    </dimension>
+    <dimension type='t'>
+      <size>4</size>
+      <origin>0</origin>
+      <spacing>2000</spacing>
+      <gap>0</gap>
+      <units>ms</units>
+    </dimension>
+    <byteorder>lsbfirst</byteorder>
+    <elementtype>uint16</elementtype>
+    <filename>f.nii</filename>
+    <fileoffset>352</fileoffset>
+    <filerecordsize>786432</filerecordsize>
+  </datarec>
+  <provenance>
+    <processStep>
+      <programName>dicom2bxh</programName>
+      <programArgument>/tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/ep2d_64x64_MINCON_6/0001.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/ep2d_64x64_MINCON_6/0002.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/ep2d_64x64_MINCON_6/0003.dcm /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/ep2d_64x64_MINCON_6/0004.dcm</programArgument>
+      <version>BXH utilities (1.9.9.4)</version>
+      <timeStamp>2011-08-18 12:57:50</timeStamp>
+      <cvs>/home/gadde/commonlibs/bxh_xcede_tools-1.9.9.4/libsrc/bxh_dicom.cpp v1.1
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.9.4/libsrc/bxh_datarec.cpp v1.89
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.9.4/libsrc/bxh_signa.c v1.49
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.9.4/libsrc/bxh_dom_utils.cpp v1.41
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.9.4/libsrc/bxh_dom_utils-xerces.cpp v1.4
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.9.4/libsrc/bxh_utils.cpp v1.67
+</cvs>
+      <user>rasmussj</user>
+      <machine>i386</machine>
+      <platform>linux</platform>
+      <platformVersion/>
+    </processStep>
+    <processStep>
+      <programName>bxh2analyze</programName>
+      <programArgument>/tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/ep2d_64x64_MINCON_6/ImageWrapper.xml /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/ep2d_64x64_MINCON_6/NiftiFormat/f</programArgument>
+      <version>BXH utilities (1.9.8.7)</version>
+      <timeStamp>2011-08-18 12:57:51</timeStamp>
+      <cvs>/home/gadde/commonlibs/bxh_xcede_tools-1.9.8.7/libsrc/bxh_dom_utils-xerces.cpp v1.4
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.8.7/libsrc/bxh_signa.c v1.49
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.8.7/libsrc/bxh_utils.cpp v1.67
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.8.7/libsrc/bxh_dicom.cpp v1.1
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.8.7/utils/bxhabsorb.c v1.39
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.8.7/libsrc/bxh_datarec.cpp v1.89
+</cvs>
+      <user>rasmussj</user>
+      <machine>i386</machine>
+      <platform>linux</platform>
+      <platformVersion/>
+    </processStep>
+  </provenance>
+</serieslevel>

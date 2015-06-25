@@ -1,0 +1,5 @@
+ 8/16 17:51:01 Alrt   13 Voices_4 <No>
+ 8/16 17:51:06 Menu   27 postscan->'Rate Pictures 1'
+ 8/16 17:51:11 MnGo   22 birnscanset_1 <OK> [1]
+ 8/16 17:51:13 Alrt   12 Alert_6 <OK>
+ 8/16 17:55:02 Alrt   16 Confirm_4 <Quit>

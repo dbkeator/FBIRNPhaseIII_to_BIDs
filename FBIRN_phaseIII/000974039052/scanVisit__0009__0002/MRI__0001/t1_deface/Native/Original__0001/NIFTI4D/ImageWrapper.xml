@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<serieslevel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://nbirn.net/Resources/Users/Applications/xcede/" xmlns:xcede="http://nbirn.net/Resources/Users/Applications/xcede/">
+  <subject>
+    <name/>
+    <sex>other</sex>
+  </subject>
+  <visit>
+    <subjectVar>
+      <age agetype="postnatal" units="years"/>
+    </subjectVar>
+  </visit>
+  <scanner>
+    <model/>
+  </scanner>
+  <expProtocol/>
+  <acqProtocol>
+    <name/>
+    <acqParam name="scanner" type="varchar"/>
+    <acqParam name="psdname" type="varchar"/>
+  </acqProtocol>
+  <datarec type="image">
+    <!--AUTOGEN: Orientation is oblique sagittal -->
+    <rasorigin>119.491523742676 99.4677963256836 123.050849914551</rasorigin>
+    <dimension type="x">
+      <size>256</size>
+      <origin>99.4677963256836</origin>
+      <spacing>0.859375</spacing>
+      <gap>0</gap>
+      <direction>0 -1 0</direction>
+      <units>mm</units>
+    </dimension>
+    <dimension type="y">
+      <size>256</size>
+      <origin>123.050849914551</origin>
+      <spacing>0.859375</spacing>
+      <gap>0</gap>
+      <direction>0 0 -1</direction>
+      <units>mm</units>
+    </dimension>
+    <dimension type="z">
+      <size>160</size>
+      <origin>119.491523742676</origin>
+      <spacing>1.20000004768372</spacing>
+      <gap>0</gap>
+      <direction>-1 0 0</direction>
+      <units>mm</units>
+    </dimension>
+    <byteorder>lsbfirst</byteorder>
+    <elementtype>int16</elementtype>
+    <filename>f.nii</filename>
+    <fileoffset>352</fileoffset>
+    <filerecordsize>20971520</filerecordsize>
+  </datarec>
+  <provenance>
+    <processStep>
+      <programName>analyze2bxh</programName>
+      <programArgument>/tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/NEW_t1_deface/t1-deface.nii</programArgument>
+      <version>BXH utilities (1.9.8.7)</version>
+      <timeStamp>2011-08-18 12:56:04</timeStamp>
+      <cvs>/home/gadde/commonlibs/bxh_xcede_tools-1.9.8.7/libsrc/bxh_dom_utils-xerces.cpp v1.4
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.8.7/libsrc/bxh_signa.c v1.49
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.8.7/libsrc/bxh_utils.cpp v1.67
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.8.7/libsrc/bxh_dicom.cpp v1.1
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.8.7/utils/bxhabsorb.c v1.39
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.8.7/libsrc/bxh_datarec.cpp v1.89
+</cvs>
+      <user>rasmussj</user>
+      <machine>i386</machine>
+      <platform>linux</platform>
+      <platformVersion/>
+    </processStep>
+    <processStep>
+      <programName>Upload.py (function MergeXCEDEAcqParams)</programName>
+      <programArgument>origFile="/tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/NEW_t1_deface/ImageWrapper-previous.xml", mergeFile="/tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/NEW_t1_deface/ImageWrapper-orig.xml", outFile="/tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/NEW_t1_deface/ImageWrapper.xml"</programArgument>
+      <version/>
+      <timeStamp>2011-08-18 12:56:04</timeStamp>
+      <cvs/>
+      <user/>
+      <machine/>
+      <platform/>
+      <platformVersion/>
+    </processStep>
+    <processStep>
+      <programName>bxh2analyze</programName>
+      <programArgument>/tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/NEW_t1_deface/ImageWrapper.xml /tmp/fBIRNDataUploadIII/_tempUpload.11983.1313696628/NEW_t1_deface/NiftiFormat/f</programArgument>
+      <version>BXH utilities (1.9.8.7)</version>
+      <timeStamp>2011-08-18 12:56:07</timeStamp>
+      <cvs>/home/gadde/commonlibs/bxh_xcede_tools-1.9.8.7/libsrc/bxh_dom_utils-xerces.cpp v1.4
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.8.7/libsrc/bxh_signa.c v1.49
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.8.7/libsrc/bxh_utils.cpp v1.67
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.8.7/libsrc/bxh_dicom.cpp v1.1
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.8.7/utils/bxhabsorb.c v1.39
+/home/gadde/commonlibs/bxh_xcede_tools-1.9.8.7/libsrc/bxh_datarec.cpp v1.89
+</cvs>
+      <user>rasmussj</user>
+      <machine>i386</machine>
+      <platform>linux</platform>
+      <platformVersion/>
+    </processStep>
+  </provenance>
+</serieslevel>
